@@ -1,0 +1,11 @@
+C:\Users\amilc\OneDrive\Escritorio\LABORATORIOFINAL\LABORATORIOFINAL\obj\Debug\netcoreapp2.1\LABORATORIOFINAL.csprojAssemblyReference.cache
+C:\Users\amilc\OneDrive\Escritorio\LABORATORIOFINAL\LABORATORIOFINAL\obj\Debug\netcoreapp2.1\LABORATORIOFINAL.csproj.CoreCompileInputs.cache
+C:\Users\amilc\OneDrive\Escritorio\LABORATORIOFINAL\LABORATORIOFINAL\obj\Debug\netcoreapp2.1\LABORATORIOFINAL.AssemblyInfoInputs.cache
+C:\Users\amilc\OneDrive\Escritorio\LABORATORIOFINAL\LABORATORIOFINAL\obj\Debug\netcoreapp2.1\LABORATORIOFINAL.AssemblyInfo.cs
+C:\Users\amilc\OneDrive\Escritorio\LABORATORIOFINAL\LABORATORIOFINAL\bin\Debug\netcoreapp2.1\LABORATORIOFINAL.deps.json
+C:\Users\amilc\OneDrive\Escritorio\LABORATORIOFINAL\LABORATORIOFINAL\bin\Debug\netcoreapp2.1\LABORATORIOFINAL.runtimeconfig.json
+C:\Users\amilc\OneDrive\Escritorio\LABORATORIOFINAL\LABORATORIOFINAL\bin\Debug\netcoreapp2.1\LABORATORIOFINAL.runtimeconfig.dev.json
+C:\Users\amilc\OneDrive\Escritorio\LABORATORIOFINAL\LABORATORIOFINAL\bin\Debug\netcoreapp2.1\LABORATORIOFINAL.dll
+C:\Users\amilc\OneDrive\Escritorio\LABORATORIOFINAL\LABORATORIOFINAL\bin\Debug\netcoreapp2.1\LABORATORIOFINAL.pdb
+C:\Users\amilc\OneDrive\Escritorio\LABORATORIOFINAL\LABORATORIOFINAL\obj\Debug\netcoreapp2.1\LABORATORIOFINAL.dll
+C:\Users\amilc\OneDrive\Escritorio\LABORATORIOFINAL\LABORATORIOFINAL\obj\Debug\netcoreapp2.1\LABORATORIOFINAL.pdb
